@@ -4,6 +4,8 @@
 
 ScopeGuard is a modern, responsive single-page SaaS dashboard built with **React**, **Vite**, **JavaScript**, and modular modern **CSS**. It helps freelance web professionals quickly evaluate incoming client messages, check them against agreed project deliverables and signed contract exclusions, classify whether requests fall within scope, and generate professional, assertive client email responses.
 
+LIVE DEMO: https://scopeguard-seven-tau.vercel.app/
+
 ---
 
 ## 🚀 Key Features
